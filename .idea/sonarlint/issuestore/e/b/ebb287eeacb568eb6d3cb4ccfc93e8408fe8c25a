@@ -1,0 +1,27 @@
+
+”
+java:S1120
+"wMake this line start after 2 spaces instead of 4 in order to indent the code consistently. (Indentation level is at 2.)(Ã¦‡è8ÃµÂàÓ1
+
+java:S1120"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(ğ×ñ²
+
+java:S1120"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(ğ×ñ²
+0
+java:S1220""Move this file to a named package.
+V
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¸¥‘b
+W
+java:S1106
+"AMove this left curly brace to the beginning of next line of code.(Ã¦‡è
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(·«¨¨
+4
+java:S1451"&Add or update the header of this file.
+W
+java:S3414";Move this test class to the test folder in current project.(¸¥‘b8øß·àÓ1
+L
+java:S6212"/Declare this local variable with "var" instead.(ğ×ñ²8ÎµÂàÓ1
+L
+java:S6212"/Declare this local variable with "var" instead.(ğ×ñ²8ÑµÂàÓ1
+H
+java:S5960"+Remove this assertion from production code.(Ãñ Ô8ÓµÂàÓ1
